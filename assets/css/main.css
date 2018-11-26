@@ -88,7 +88,7 @@ input, select, textarea {
 
 	body {
 		background: #f5f7fa;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Helvetica', sans-serif;
 		font-weight: 300;
 		color: #52575c;
 		line-height: 1.75em;
@@ -233,7 +233,7 @@ input, select, textarea {
 /* Container */
 
 	.container {
-		margin: 0 auto;
+		margin: 0 auto;/
 		max-width: 100%;
 		width: 1200px;
 	}
